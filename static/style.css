@@ -1,0 +1,9 @@
+.pet-available {
+  max-width: 300px;
+  display: inline-block;
+}
+
+img {
+  width: 300px;
+  display: inline-block;
+}
